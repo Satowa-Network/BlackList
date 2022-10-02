@@ -431,3 +431,14 @@ proxy1.cdnstaticjs.com
 gitxhub.com
 diskcord.gift
 yummy.haus
+||dyno-bots.com^$important
+||agvaggdgdgdgdfsgdsaf.herokuapp.com^$important
+||twitch-bonus.com^$important
+||stearnconnunity.com^$important
+||sleamcommunity.com^$important
+||scaptcha.observer^$important
+||steamcommunityxiv.asia^$important
+||steamcommuuntiy.com^$important
+||dllscourd.com^$important
+||steamcommuunlity.online^$important
+||forms-hypesquad-new.ml^$important
