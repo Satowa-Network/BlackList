@@ -834,3 +834,4 @@ steamcommunityprofiles78797934121332.com
 ||streamcommunnity.com^$important
 ||discord.rvgl.ru^$important
 ||lgt-cs.com^$important
+||wenrd.top^$important
