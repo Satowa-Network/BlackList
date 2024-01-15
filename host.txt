@@ -833,3 +833,4 @@ steamcommunityprofiles78797934121332.com
 ||drops-csgo.site^$important
 ||streamcommunnity.com^$important
 ||discord.rvgl.ru^$important
+||lgt-cs.com^$important
